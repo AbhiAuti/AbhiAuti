@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abhishek Gopinath Auti</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Computer Engineer from India</h3>
 
-- 🔭 I’m currently working on [creating a customer-satisfactory and affordable matrimonial platform.](notavailable still)
+- 🔭 I’m currently working on [creating a customer-satisfactory and affordable matrimonial platform.](https://solemates-foryou.vercel.app)
 
 - 🌱 I’m currently learning **Dsa ,Full Stack & Data**
 
 - 👯 I’m looking to collaborate on **Wherever I find an opportunity to enhance my skills,and learn**
 
-- 🤝 I’m looking for help with [I am looking for help with creating a customer-satisfactory and affordable matrimonial platform.](notavailable.com)
+- 🤝 I’m looking for help with [I am looking for help with creating a customer-satisfactory and affordable matrimonial platform.](https://solemates-foryou.vercel.app))
 
-- 👨‍💻 All of my projects are available at [my Portfolio website](https://main--fantastic-caramel-4b2777.netlify.app/)
+- 👨‍💻 All of my projects are available at [my Portfolio website](https://main--abhishekauti.netlify.app)
 
 - 💬 Ask me about **Dsa,Business idea,Investing**
 
