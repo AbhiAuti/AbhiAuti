@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [my Portfolio website](https://main--abhishekauti.netlify.app)
 
-- 💬 Ask me about **Dsa,Business idea,Investing**
+- 💬 Ask me about **Project ideas,Business ideas,Investing**
 
 - 📫 How to reach me **abhishekauti009@gmail.com,abhishekauti247@gmail.com**
 
